@@ -1,10 +1,10 @@
-# Conway's Game of Life
+# Game Of Life 細胞自動機模擬器
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![d3.js](https://img.shields.io/badge/d3.js-v7-orange.svg)](https://d3js.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.x-38bdf8.svg)](https://tailwindcss.com/)
 
-[← 回到 Muripo HQ](https://tznthou.github.io/muripo-hq/)
+[← 回到 Muripo HQ](https://tznthou.github.io/muripo-hq/) | [English](README_EN.md)
 
 網頁版 Conway 生命遊戲模擬器，使用 **d3.js** 進行 SVG 渲染與資料驅動更新，搭配 **Tailwind CSS** 打造現代化介面。
 
@@ -252,3 +252,9 @@ day-08-game-of-life/
 ## 授權
 
 本專案採用 [MIT License](LICENSE) 授權。
+
+---
+
+## 作者
+
+子超 - [tznthou@gmail.com](mailto:tznthou@gmail.com)
